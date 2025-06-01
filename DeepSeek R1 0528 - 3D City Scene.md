@@ -1,4 +1,4 @@
-# 3D City Scene with Three.js
+# 3D City Scene with Three
 
 A dynamic 3D city simulation featuring skyscrapers, moving vehicles, pedestrians, and day/night cycles. Built with Three.js for an immersive urban experience.
 
