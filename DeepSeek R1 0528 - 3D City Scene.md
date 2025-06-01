@@ -33,3 +33,5 @@ A dynamic 3D city simulation featuring skyscrapers, moving vehicles, pedestrians
 - Internet connection (for CDN resources)
 
 Enjoy exploring the vibrant cityscape!
+
+![image](https://raw.githubusercontent.com/sanchomuzax/ai-one-shot-programming/refs/heads/main/DeepSeek%20R1%200528%20-%20Space%20Invaders%20Remastered.png)
