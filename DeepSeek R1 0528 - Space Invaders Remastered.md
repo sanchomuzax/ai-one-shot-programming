@@ -1,4 +1,4 @@
-# Space Invaders Remastered - Játék Dokumentáció
+# Space Invaders Remastered
 
 ## Áttekintés
 A Space Invaders Remastered egy modern újragondolása a klasszikus űrhajós lövöldözős játéknak. A játékban az űrhajóddal védekezel az idegen invázió ellen, miközben pontokat gyűjtesz és egyre nehezebb szinteken haladsz előre.
