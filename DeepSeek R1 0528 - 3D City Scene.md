@@ -2,6 +2,8 @@
 
 A dynamic 3D city simulation featuring skyscrapers, moving vehicles, pedestrians, and day/night cycles. Built with Three.js for an immersive urban experience.
 
+**[Download](https://github.com/sanchomuzax/ai-one-shot-programming/blob/main/DeepSeek%20R1%200528%20-%203D%20City%20Scene.html)**
+
 ## Prompt
 
 ~~~
