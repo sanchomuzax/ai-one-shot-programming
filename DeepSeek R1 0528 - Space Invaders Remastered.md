@@ -47,13 +47,7 @@ A Space Invaders Remastered egy modern újragondolása a klasszikus űrhajós l�
 2. Nyisd meg a fájlt bármely modern webböngészőben (Chrome, Firefox, Edge)
 3. Kattints a "START MISSION" gombra a játék indításához
 
-## Képernyőképek
-![Kezdőképernyő](https://example.com/screenshot1.jpg)
-![Játék közben](https://example.com/screenshot2.jpg)
-![Játék vége](https://example.com/screenshot3.jpg)
-
 ## Licenc
 A játék ingyenesen használható oktatási és szórakoztatási célokra. A forráskód módosítható és terjeszthető a MIT licenc feltételei szerint.
 
-## Kapcsolat
-Kérdéseiddel fordulj az alábbi e-mail címen: attila.virag@example.com
+![image](https://raw.githubusercontent.com/sanchomuzax/ai-one-shot-programming/refs/heads/main/DeepSeek%20R1%200528%20-%20Space%20Invaders%20Remastered.png)
