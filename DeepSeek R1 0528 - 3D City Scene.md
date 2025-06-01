@@ -2,6 +2,12 @@
 
 A dynamic 3D city simulation featuring skyscrapers, moving vehicles, pedestrians, and day/night cycles. Built with Three.js for an immersive urban experience.
 
+## Prompt
+
+~~~
+Create a 3D city scene using Three.js that features a bustling urban environment with skyscrapers, apartment buildings, and smaller shops lining the streets. Incorporate roads with moving cars, traffic lights, and pedestrian crossings to bring the city to life. Add pedestrians walking on sidewalks and crossing the streets to enhance realism. Include street elements such as lampposts, benches, and trees for a more immersive experience. Utilize dynamic lighting to simulate day and night cycles, and implement basic camera controls to allow users to explore the vibrant cityscape from different perspectives.
+~~~
+
 ## Features
 - 🏙️ Procedurally generated city with skyscrapers, apartments, and shops
 - 🚗 Moving vehicles on roads with traffic patterns
