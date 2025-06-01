@@ -3,6 +3,8 @@
 ## Áttekintés
 A Space Invaders Remastered egy modern újragondolása a klasszikus űrhajós lövöldözős játéknak. A játékban az űrhajóddal védekezel az idegen invázió ellen, miközben pontokat gyűjtesz és egyre nehezebb szinteken haladsz előre.
 
+**[Download](https://github.com/sanchomuzax/ai-one-shot-programming/blob/main/DeepSeek%20R1%200528%20-%20Space%20Invaders%20Remastered.html)**
+
 ## Prompt
 
 ~~~
